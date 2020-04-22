@@ -1,3 +1,4 @@
-yum update -y
-yum install -y nginx
-yum install -y curl
+apt update -y
+apt install -y net-tools
+apt install -y curl
+apt install -y tree
